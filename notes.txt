@@ -1,10 +1,15 @@
-mountain font - bebas
-nav font - Lato BlackItalic
-01.History font - Oswald Bold
+LA mountains font - bebas   X
+
+nav font - Lato BlackItalic   X
+
+01.History font - Oswald Bold   X
 	font - Lato BlackItalic
 
-SCHEDULE - Oswald Bold
+MOUNTAIN1&2 - Oswald Bold			X
+
+SCHEDULE - Oswald Bold   X
 	Lato Light
 
+copyright - lato italic
 
-logo border color: #BDC3C7;
+
