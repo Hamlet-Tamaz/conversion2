@@ -31,7 +31,7 @@ nav li {
 	font-size: 70%;
 }
 nav li a {
-	text-decoration: none;
+	text-decoration: underline;
 	color: white;
 }
 .burger {
@@ -182,7 +182,7 @@ nav li a {
 	z-index: 2;
 	width: 100vw;
 	background-color: rgb(65,79,107);
-	top: 1795px;
+	top: 1790px;
 }
 #tabs div{
 	max-width: 1000px;
@@ -243,20 +243,6 @@ nav li a {
 }
 .hero-text2 h2 {
 	margin-left: 20px;
-}
-#tabs {
-	position: absolute;
-	left: 0;
-	z-index: 2;
-	width: 100vw;
-	background-color: rgb(65,79,107);
-	top: 1795px;
-}
-#tabs div{
-	max-width: 1000px;
-	position: relative;
-	padding: 10px;
-	margin: 0 auto;
 }
 footer {
   position: absolute;
@@ -369,13 +355,6 @@ footer #copyright {
 	}
 	footer .logo {
 		left: 5px;
-	}
-	footer .screen {
-		background-color: rgba(65,79, 107,0);
-		width: 100vw;
-		position: absolute;
-		left: 0;
-		height: 100%;
 	}
 	footer #copyright {
 		position: absolute;
