@@ -1,0 +1,10 @@
+mountain font - bebas
+nav font - Lato BlackItalic
+01.History font - Oswald Bold
+	font - Lato BlackItalic
+
+SCHEDULE - Oswald Bold
+	Lato Light
+
+
+logo border color: #BDC3C7;
