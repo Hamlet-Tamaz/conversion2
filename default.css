@@ -1,13 +1,9 @@
-html {
-	/*overflow: auto;*/
-}
 body {
 	max-width: 1000px;
 	margin: 0 auto;
 	color: #b0b4be;
 	font-family: Lato;
-	height: 200px;
-	/*margin-bottom: -500px;*/
+	height: 2460px;
 }
 header {
 	position: relative;
